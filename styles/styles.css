@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: 'Handjet', sans-serif;
+  text-transform: none;
+  font-weight: normal;
+  color:#F6EA53;
+}
+
+.ily:hover {
+  color: white;
+}
+
+.ily__link{
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 23px;
+  font-family: 'Handjet', sans-serif;
+  font-weight: lighter;
+  color:#71FFD0;
+  max-width: 500px;
+}
+
+.valentine__background {
+  width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card {
+  position: absolute;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.dancing__cake_cute {
+  max-width: 130px;
+}
+
+/* Add more styles to create a romantic atmosphere */
